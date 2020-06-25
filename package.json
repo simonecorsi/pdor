@@ -1,0 +1,17 @@
+{
+  "name": "pdor",
+  "version": "1.0.0",
+  "description": "Pdor, Figlio di Kmer, della tribù di Istar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirkhammetz/pdor.git"
+  },
+  "keywords": [
+    "pdor"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kirkhammetz/pdor/issues"
+  },
+  "homepage": "https://github.com/Kirkhammetz/pdor#readme"
+}
